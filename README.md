@@ -3,7 +3,9 @@
 Used the following 3 repositories:
 
 https://github.com/HashLips/hashlips_art_engine - Generate assets
+
 https://github.com/metaplex-foundation/metaplex - Upload to decentralized storage and deploy assets
+
 https://github.com/exiled-apes/candy-machine-mint - Mint NFTs
 
 # 1. `hashlips_art_engine`
